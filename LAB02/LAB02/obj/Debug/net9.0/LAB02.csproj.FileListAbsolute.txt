@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\baitap\LAB02\LAB02\bin\Debug\net9.0\LAB02.exe
+C:\Users\Admin\Desktop\baitap\LAB02\LAB02\bin\Debug\net9.0\LAB02.deps.json
+C:\Users\Admin\Desktop\baitap\LAB02\LAB02\bin\Debug\net9.0\LAB02.runtimeconfig.json
+C:\Users\Admin\Desktop\baitap\LAB02\LAB02\bin\Debug\net9.0\LAB02.dll
+C:\Users\Admin\Desktop\baitap\LAB02\LAB02\bin\Debug\net9.0\LAB02.pdb
+C:\Users\Admin\Desktop\baitap\LAB02\LAB02\obj\Debug\net9.0\LAB02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\baitap\LAB02\LAB02\obj\Debug\net9.0\LAB02.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\baitap\LAB02\LAB02\obj\Debug\net9.0\LAB02.AssemblyInfo.cs
+C:\Users\Admin\Desktop\baitap\LAB02\LAB02\obj\Debug\net9.0\LAB02.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\baitap\LAB02\LAB02\obj\Debug\net9.0\LAB02.dll
+C:\Users\Admin\Desktop\baitap\LAB02\LAB02\obj\Debug\net9.0\refint\LAB02.dll
+C:\Users\Admin\Desktop\baitap\LAB02\LAB02\obj\Debug\net9.0\LAB02.pdb
+C:\Users\Admin\Desktop\baitap\LAB02\LAB02\obj\Debug\net9.0\LAB02.genruntimeconfig.cache
+C:\Users\Admin\Desktop\baitap\LAB02\LAB02\obj\Debug\net9.0\ref\LAB02.dll
